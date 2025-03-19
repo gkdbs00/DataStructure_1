@@ -2,10 +2,8 @@
 
 int main()
 {
-    // 변수 선언
     int num;
 
-    // 정수 입력 받기
     printf("정수를 입력하세요. : ");
     scanf("%d", &num);
 
